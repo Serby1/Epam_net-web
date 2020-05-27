@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\Task_1_\1.1.3_ANOTHER_TRIANGLE_\bin\Debug\1.1.3_ANOTHER_TRIANGLE_.exe.config
+C:\Users\Vlad\source\repos\Task_1_\1.1.3_ANOTHER_TRIANGLE_\bin\Debug\1.1.3_ANOTHER_TRIANGLE_.exe
+C:\Users\Vlad\source\repos\Task_1_\1.1.3_ANOTHER_TRIANGLE_\bin\Debug\1.1.3_ANOTHER_TRIANGLE_.pdb
+C:\Users\Vlad\source\repos\Task_1_\1.1.3_ANOTHER_TRIANGLE_\obj\Debug\1.1.3_ANOTHER_TRIANGLE_.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Task_1_\1.1.3_ANOTHER_TRIANGLE_\obj\Debug\1.1.3_ANOTHER_TRIANGLE_.exe
+C:\Users\Vlad\source\repos\Task_1_\1.1.3_ANOTHER_TRIANGLE_\obj\Debug\1.1.3_ANOTHER_TRIANGLE_.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\Task_1_\1.1.6. FONT ADJUSTMENT\bin\Debug\_1._1._6.FONT_ADJUSTMENT.exe.config
+C:\Users\Vlad\source\repos\Task_1_\1.1.6. FONT ADJUSTMENT\bin\Debug\_1._1._6.FONT_ADJUSTMENT.exe
+C:\Users\Vlad\source\repos\Task_1_\1.1.6. FONT ADJUSTMENT\bin\Debug\_1._1._6.FONT_ADJUSTMENT.pdb
+C:\Users\Vlad\source\repos\Task_1_\1.1.6. FONT ADJUSTMENT\obj\Debug\1.1.6. FONT ADJUSTMENT.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Task_1_\1.1.6. FONT ADJUSTMENT\obj\Debug\_1._1._6.FONT_ADJUSTMENT.exe
+C:\Users\Vlad\source\repos\Task_1_\1.1.6. FONT ADJUSTMENT\obj\Debug\_1._1._6.FONT_ADJUSTMENT.pdb
