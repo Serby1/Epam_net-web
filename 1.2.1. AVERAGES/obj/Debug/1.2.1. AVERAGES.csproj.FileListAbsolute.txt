@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\bin\Debug\_1._2._1.AVERAGES.exe.config
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\bin\Debug\_1._2._1.AVERAGES.exe
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\bin\Debug\_1._2._1.AVERAGES.pdb
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\obj\Debug\1.2.1. AVERAGES.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\obj\Debug\1.2.1. AVERAGES.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\obj\Debug\_1._2._1.AVERAGES.exe
+C:\Users\Vlad\source\repos\Task_1_\1.2.1. AVERAGES\obj\Debug\_1._2._1.AVERAGES.pdb

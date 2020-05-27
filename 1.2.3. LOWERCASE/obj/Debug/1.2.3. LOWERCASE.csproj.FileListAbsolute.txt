@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\Task_1_\1.2.3. LOWERCASE\bin\Debug\_1._2._3.LOWERCASE.exe.config
+C:\Users\Vlad\source\repos\Task_1_\1.2.3. LOWERCASE\bin\Debug\_1._2._3.LOWERCASE.exe
+C:\Users\Vlad\source\repos\Task_1_\1.2.3. LOWERCASE\bin\Debug\_1._2._3.LOWERCASE.pdb
+C:\Users\Vlad\source\repos\Task_1_\1.2.3. LOWERCASE\obj\Debug\1.2.3. LOWERCASE.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Task_1_\1.2.3. LOWERCASE\obj\Debug\_1._2._3.LOWERCASE.exe
+C:\Users\Vlad\source\repos\Task_1_\1.2.3. LOWERCASE\obj\Debug\_1._2._3.LOWERCASE.pdb
