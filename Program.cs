@@ -8,17 +8,17 @@ namespace _1._1._1_RECTANGLE
 {
     class Program
     {
-        static int Area(int a, int b)
+        static uint Area(uint a, uint b)
         {
-            return a* b;
+            return a * b;
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a:");
-            int a = 0, b = 0;
+            uint a = 0, b = 0;
             string input = Console.ReadLine();
-            bool result = int.TryParse(input, out a);
+            bool result = uint.TryParse(input, out a);
             while (a == 0)
             {
                 if (result)
@@ -29,12 +29,12 @@ namespace _1._1._1_RECTANGLE
                     Console.WriteLine("Invalid value entered");
                     Console.WriteLine("Enter a:");
                     input = Console.ReadLine();
-                    result = int.TryParse(input, out a);
+                    result = uint.TryParse(input, out a);
                 }
             }
             Console.WriteLine("Enter b:\t");
             input = Console.ReadLine();
-            result = int.TryParse(input, out b);
+            result = uint.TryParse(input, out b);
             while (b == 0)
             {
                 if (result)
@@ -45,7 +45,7 @@ namespace _1._1._1_RECTANGLE
                     Console.WriteLine("Invalid value entered");
                     Console.WriteLine("Enter a:");
                     input = Console.ReadLine();
-                    result = int.TryParse(input, out b);
+                    result = uint.TryParse(input, out b);
                 }
             }
             if (a < 0 || b < 0)

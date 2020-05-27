@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\Task_1_\bin\Debug\Task_1_.exe.config
+C:\Users\Vlad\source\repos\Task_1_\bin\Debug\Task_1_.exe
+C:\Users\Vlad\source\repos\Task_1_\bin\Debug\Task_1_.pdb
+C:\Users\Vlad\source\repos\Task_1_\obj\Debug\1.1.1_RECTANGLE.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Task_1_\obj\Debug\1.1.1_RECTANGLE.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Task_1_\obj\Debug\Task_1_.exe
+C:\Users\Vlad\source\repos\Task_1_\obj\Debug\Task_1_.pdb
