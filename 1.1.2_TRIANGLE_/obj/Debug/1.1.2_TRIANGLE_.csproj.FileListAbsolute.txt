@@ -1,7 +1,0 @@
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\bin\Debug\1.1.2_TRIANGLE_.exe.config
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\bin\Debug\1.1.2_TRIANGLE_.exe
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\bin\Debug\1.1.2_TRIANGLE_.pdb
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\obj\Debug\1.1.2_TRIANGLE_.csprojAssemblyReference.cache
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\obj\Debug\1.1.2_TRIANGLE_.csproj.CoreCompileInputs.cache
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\obj\Debug\1.1.2_TRIANGLE_.exe
-C:\Users\Vlad\source\repos\Task_1_\1.1.2_TRIANGLE_\obj\Debug\1.1.2_TRIANGLE_.pdb
