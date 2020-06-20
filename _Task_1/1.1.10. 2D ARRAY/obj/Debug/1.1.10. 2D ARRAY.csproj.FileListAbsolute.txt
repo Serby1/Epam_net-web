@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\_Task_1\1.1.10. 2D ARRAY\bin\Debug\1.1.10. 2D ARRAY.exe.config
+C:\Users\Vlad\source\repos\_Task_1\1.1.10. 2D ARRAY\bin\Debug\1.1.10. 2D ARRAY.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.10. 2D ARRAY\bin\Debug\1.1.10. 2D ARRAY.pdb
+C:\Users\Vlad\source\repos\_Task_1\1.1.10. 2D ARRAY\obj\Debug\1.1.10. 2D ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\_Task_1\1.1.10. 2D ARRAY\obj\Debug\1.1.10. 2D ARRAY.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.10. 2D ARRAY\obj\Debug\1.1.10. 2D ARRAY.pdb

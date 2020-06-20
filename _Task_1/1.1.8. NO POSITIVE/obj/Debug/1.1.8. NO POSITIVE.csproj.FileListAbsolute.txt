@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\bin\Debug\_1._1._8.NO_POSITIVE.exe.config
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\bin\Debug\_1._1._8.NO_POSITIVE.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\bin\Debug\_1._1._8.NO_POSITIVE.pdb
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\obj\Debug\1.1.8. NO POSITIVE.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\obj\Debug\_1._1._8.NO_POSITIVE.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\obj\Debug\_1._1._8.NO_POSITIVE.pdb
+C:\Users\Vlad\source\repos\_Task_1\1.1.8. NO POSITIVE\obj\Debug\1.1.8. NO POSITIVE.csprojAssemblyReference.cache

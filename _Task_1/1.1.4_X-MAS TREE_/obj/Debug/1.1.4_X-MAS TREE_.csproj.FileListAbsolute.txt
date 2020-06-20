@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\_Task_1\1.1.4_X-MAS TREE_\bin\Debug\1.1.4_X-MAS TREE_.exe.config
+C:\Users\Vlad\source\repos\_Task_1\1.1.4_X-MAS TREE_\bin\Debug\1.1.4_X-MAS TREE_.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.4_X-MAS TREE_\bin\Debug\1.1.4_X-MAS TREE_.pdb
+C:\Users\Vlad\source\repos\_Task_1\1.1.4_X-MAS TREE_\obj\Debug\1.1.4_X-MAS TREE_.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\_Task_1\1.1.4_X-MAS TREE_\obj\Debug\1.1.4_X-MAS TREE_.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.4_X-MAS TREE_\obj\Debug\1.1.4_X-MAS TREE_.pdb

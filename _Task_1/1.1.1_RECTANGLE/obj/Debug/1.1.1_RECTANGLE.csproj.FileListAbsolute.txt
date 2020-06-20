@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\bin\Debug\1.1.1_RECTANGLE.exe.config
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\bin\Debug\1.1.1_RECTANGLE.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\bin\Debug\1.1.1_RECTANGLE.pdb
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\obj\Debug\1.1.1_RECTANGLE.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\obj\Debug\1.1.1_RECTANGLE.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\obj\Debug\1.1.1_RECTANGLE.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.1_RECTANGLE\obj\Debug\1.1.1_RECTANGLE.pdb

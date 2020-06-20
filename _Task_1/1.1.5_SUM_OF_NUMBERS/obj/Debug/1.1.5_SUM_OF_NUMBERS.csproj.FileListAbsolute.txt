@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\_Task_1\1.1.5_SUM_OF_NUMBERS\bin\Debug\1.1.5_SUM_OF_NUMBERS.exe.config
+C:\Users\Vlad\source\repos\_Task_1\1.1.5_SUM_OF_NUMBERS\bin\Debug\1.1.5_SUM_OF_NUMBERS.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.5_SUM_OF_NUMBERS\bin\Debug\1.1.5_SUM_OF_NUMBERS.pdb
+C:\Users\Vlad\source\repos\_Task_1\1.1.5_SUM_OF_NUMBERS\obj\Debug\1.1.5_SUM_OF_NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\_Task_1\1.1.5_SUM_OF_NUMBERS\obj\Debug\1.1.5_SUM_OF_NUMBERS.exe
+C:\Users\Vlad\source\repos\_Task_1\1.1.5_SUM_OF_NUMBERS\obj\Debug\1.1.5_SUM_OF_NUMBERS.pdb
